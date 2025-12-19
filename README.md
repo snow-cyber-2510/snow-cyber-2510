@@ -24,7 +24,7 @@
 <h2>🌐 Connect with Me</h2>
 
 <p>
-  <a href="https://instagram.com/neelesh__9379">
+  <a href="https://instagram.com/neelesh___9379">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/Bfkgfkg">
