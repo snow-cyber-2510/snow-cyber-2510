@@ -23,15 +23,25 @@
 
 <h2>🌐 Connect with Me</h2>
 
-<p>
+<p align="center">
+  <!-- Instagram -->
   <a href="https://instagram.com/neelesh___9379">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="50" />
   </a>
-  https://www.linkedin.com/in/neelesh-vishwakarma-3887ab385
+  
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/neelesh-vishwakarma-3887ab385">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50" />
+  </a>
+ 
+  
+  <!-- Email -->
   <a href="mailto:vishwakarmaneelesh632@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="50" />
   </a>
 </p>
+
+<hr/>
 
 <hr/>
 
